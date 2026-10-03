@@ -1,0 +1,19 @@
+{
+  "wheel_id": 318,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsaustralia-com-150",
+  "project": "garage-door-repairs-brisbane-6806941c2c40a298a89286afeffd730014",
+  "parent_t1_ref": "garagedoorrepairsaustralia.com-002",
+  "node_role": "buffer",
+  "money_target": "garagedoorrepairsaustralia.com.au",
+  "primary_kw": "garage door repairs brisbane",
+  "intended_url": "https://sitesau.github.io/garagedoorrepairsaustralia-com-150/",
+  "writeback_nonce": "c244caff7ed00598",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-brisbane/",
+      "anchor": "garage door repairs brisbane",
+      "rel": "follow"
+    }
+  ]
+}
